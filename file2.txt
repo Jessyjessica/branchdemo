@@ -1,1 +1,1 @@
-This is file 2 created by the main branch
+This is file 2 created by the main branch this is another text in the file 2
